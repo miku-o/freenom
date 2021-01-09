@@ -13,6 +13,7 @@ Documentation: English version | [中文版](https://github.com/luolongfei/freen
 
 [🍭  Demo](#--Demo)
 
+
 [🎁  Preparation](#--Preparation)
 
 [📪  Setting up Gmail](#--Setting-up-Gmail)
@@ -29,7 +30,7 @@ Documentation: English version | [中文版](https://github.com/luolongfei/freen
 
 [🌚  Author](#--Author)
 
-[🎉  Acknowledgements](#--Acknowledgements)
+[🎉  Acknowledgements]( #--Acknowledgements)
 
 [🥝  Open source agreement](#--Open-source-agreement)
 
