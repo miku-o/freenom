@@ -20,6 +20,7 @@ on:
       - master
   schedule:
     - cron: 23 12 6/6 * *
+  workflow_dispatch:
 # watch:
 #   types: started
 jobs:
